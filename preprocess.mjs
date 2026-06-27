@@ -119,7 +119,7 @@ const STOPWORDS = new Set((
 
 function keywords(content) {
   const cleaned = content
-    .replace(/\[\[[^\]]*\]\]/g, " ")          // wikilinks
+    .replace(/\[\[(?:[^\]|]+\|)?([^\]]+)\]\]/g, " $1 ") // keep wikilink label
     .replace(/\[[^\]]*\]\([^)]*\)/g, " ")      // md links
     .replace(/[`*_>#|]/g, " ")                  // md syntax
     .toLowerCase()
