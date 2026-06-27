@@ -1,0 +1,15 @@
+---
+title: Hands / Hand in Hand
+type: motif
+cluster: Comradeship · Union · Hands / Hand in Hand
+tags:
+  - graph/motif
+---
+
+*Motif* — appears in **5** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Motifs/Hands-Hand-in-Hand"></div>
+
+#graph/motif

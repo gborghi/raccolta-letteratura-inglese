@@ -297,6 +297,7 @@ function classifyUnit(relParts, fileName) {
 async function publishUnits(rawSourceToWork) {
   const unitHref = new Map()
   const excerpts = []
+  const excerptsKw = {}
   let copied = 0
 
   const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
@@ -426,12 +427,14 @@ async function publishUnits(rawSourceToWork) {
               unitType: it.unitType,
               order: it.order,
             })
+            const kw = keywords(body)
+            if (kw) excerptsKw[it.slug] = kw
           }
         }
       }
     }
   }
-  return { unitHref, excerpts, copied }
+  return { unitHref, excerpts, excerptsKw, copied }
 }
 
 async function main() {
@@ -497,10 +500,14 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, copied: unitsCopied } = await publishUnits(rawSourceToWork)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied } = await publishUnits(rawSourceToWork)
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
+  )
+  await fs.writeFile(
+    path.join(ROOT, "quartz", "static", "excerpts_kw.json"),
+    JSON.stringify(excerptsKw),
   )
 
   // ---- PASS 2: write content; convert concept-note "## Works" lists to tables ----

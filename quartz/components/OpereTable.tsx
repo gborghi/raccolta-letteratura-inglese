@@ -4,11 +4,22 @@ import script from "./scripts/opereTable.inline"
 
 const style = `
 #opere-table { margin-top: 1rem; }
+.qtable-searchrow { display: flex; gap: 0.5rem; align-items: stretch; margin: 0.4rem 0; flex-wrap: wrap; }
+.qtable-searchrow .lt-search { flex: 1 1 16rem; margin: 0; }
 .lt-search {
   width: 100%; box-sizing: border-box; padding: 0.55rem 0.8rem; margin-bottom: 0.5rem;
   border: 1px solid var(--lightgray); border-radius: 10px; background: var(--light);
   color: var(--dark); font-size: 0.95rem; font-family: inherit;
 }
+.qtable-modebtn {
+  flex: 0 0 auto; cursor: pointer; white-space: nowrap;
+  font-family: inherit; font-weight: 600; font-size: 0.8rem;
+  padding: 0.3rem 0.7rem; border-radius: 999px;
+  border: 1.5px solid var(--lightgray); background: var(--light); color: var(--darkgray);
+}
+.qtable-modebtn:hover { border-color: var(--secondary); color: var(--dark); }
+.qtable-modebtn[aria-pressed="true"] { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
+.qtable-modebtn:disabled { opacity: 0.6; cursor: progress; }
 .lt-meta { font-size: 0.82rem; color: var(--gray); margin-bottom: 0.5rem; display:flex; gap:0.6rem; align-items:center; flex-wrap:wrap; }
 .lt-meta select { font-family: inherit; padding: 0.2rem 0.4rem; border-radius:6px; border:1px solid var(--lightgray); background:var(--light); color:var(--dark); }
 table.lt-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }

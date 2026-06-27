@@ -26,6 +26,18 @@ async function loadData(prefix: string): Promise<Work[]> {
   return cache
 }
 
+let kwCache: Record<string, string> | null = null
+let kwPromise: Promise<Record<string, string>> | null = null
+function loadKw(prefix: string): Promise<Record<string, string>> {
+  if (kwCache) return Promise.resolve(kwCache)
+  if (!kwPromise) {
+    kwPromise = fetch(prefix + "static/works_kw.json")
+      .then((r) => r.json())
+      .then((j) => (kwCache = j as Record<string, string>))
+  }
+  return kwPromise
+}
+
 function esc(s: unknown): string {
   return String(s).replace(/[&<>"]/g, (c) =>
     c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
@@ -40,11 +52,47 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   let filter = ""
   let page = 0
   let pageSize = 50
+  let mode: "table" | "content" = "table"
 
   const search = document.createElement("input")
   search.type = "search"
-  search.placeholder = `Filter ${rows.length.toLocaleString("en")} works by title, author or cluster…`
   search.className = "lt-search"
+  const setPlaceholder = () => {
+    search.placeholder =
+      mode === "content"
+        ? `Search full content of the ${rows.length} works…`
+        : `Filter ${rows.length.toLocaleString("en")} works by title, author or cluster…`
+  }
+  setPlaceholder()
+
+  const modeBtn = document.createElement("button")
+  modeBtn.className = "qtable-modebtn"
+  modeBtn.type = "button"
+  const syncModeBtn = () => {
+    modeBtn.textContent = mode === "content" ? "Search: full content" : "Search: title/author"
+    modeBtn.setAttribute("aria-pressed", String(mode === "content"))
+  }
+  syncModeBtn()
+  modeBtn.addEventListener("click", async () => {
+    mode = mode === "table" ? "content" : "table"
+    syncModeBtn()
+    setPlaceholder()
+    page = 0
+    if (mode === "content" && !kwCache) {
+      modeBtn.textContent = "Loading index..."
+      modeBtn.disabled = true
+      try {
+        await loadKw(prefix)
+      } catch {}
+      modeBtn.disabled = false
+      syncModeBtn()
+    }
+    render()
+  })
+
+  const searchRow = document.createElement("div")
+  searchRow.className = "qtable-searchrow"
+  searchRow.append(search, modeBtn)
 
   const meta = document.createElement("div")
   meta.className = "lt-meta"
@@ -86,13 +134,18 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   function filtered(): Work[] {
     const q = filter.toLowerCase()
     return rows
-      .filter(
-        (r) =>
-          !q ||
+      .filter((r) => {
+        if (!q) return true
+        if (mode === "content") {
+          const kw = kwCache?.[r.href]
+          return kw ? kw.includes(q) : false
+        }
+        return (
           r.title.toLowerCase().includes(q) ||
           r.author.toLowerCase().includes(q) ||
-          r.cluster.toLowerCase().includes(q),
-      )
+          r.cluster.toLowerCase().includes(q)
+        )
+      })
       .sort(cmp)
   }
 
@@ -196,7 +249,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     render()
   })
 
-  el.replaceChildren(search, meta, table, pager)
+  el.replaceChildren(searchRow, meta, table, pager)
   render()
 }
 
@@ -243,3 +296,5 @@ document.addEventListener("nav", () => {
 })
 init()
 wireAuthorCards()
+
+export {}

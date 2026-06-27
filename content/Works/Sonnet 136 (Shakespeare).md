@@ -1,0 +1,44 @@
+---
+title: Sonnet 136
+author: Shakespeare
+type: work
+cluster: Greek Mythology · Lust / Sexual Desire · Desire
+source: Authors/Shakespeare/Sonnets/Sonnet_136.md
+tags:
+  - graph/work
+  - author/Shakespeare
+  - form/shakespearean_sonnet
+  - form/sonnet
+  - concept/lust
+  - motif/desire
+  - concept/self_and_soul
+  - concept/conscience
+---
+
+*by Shakespeare*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+
+> [!abstract] 
+> Continued 'Will' wordplay urging her soul to admit his suit; lust, desire, conscience and self-abasement.
+
+## Connections
+
+**Motifs:** [[Desire]]
+**Themes & Concepts:** [[Lust Sexual Desire]], [[Self-Knowledge]], [[Conscience]]
+**Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
+
+## Testo integrale / Full text
+
+If thy soul check thee that I come so near,  
+Swear to thy blind soul that I was thy Will,  
+And will, thy soul knows, is admitted there;  
+Thus far for love my love-suit, sweet, fulfil.  
+Will will fulfil the treasure of thy love,  
+Ay, fill it full with wills, and my will one.  
+In things of great receipt with ease we prove  
+Among a number one is reckoned none.  
+Then in the number let me pass untold,  
+Though in thy store’s account I one must be;  
+For nothing hold me, so it please thee hold  
+That nothing me a something, sweet, to thee.  
+Make but my name thy love, and love that still,  
+And then thou lov’st me for my name is Will.  

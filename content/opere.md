@@ -1,0 +1,7 @@
+---
+title: Works
+---
+
+All **2,861** works, sortable by any column, paginated, with a quick text filter. Click a heading to sort; type to filter by title, author or cluster.
+
+<div id="opere-table"></div>

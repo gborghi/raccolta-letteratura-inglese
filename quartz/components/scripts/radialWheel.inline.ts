@@ -177,3 +177,5 @@ document.addEventListener("nav", () => {
   init()
 })
 init()
+
+export {}
